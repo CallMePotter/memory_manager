@@ -1,0 +1,5 @@
+Time variable                                   usr           sys          wall           GGC
+ phase setup                        :   0.00 (  0%)   0.01 (100%)   0.01 ( 50%)  1576k ( 67%)
+ phase opt and generate             :   0.01 (100%)   0.00 (  0%)   0.01 ( 50%)   145k (  6%)
+ initialize rtl                     :   0.01 (100%)   0.00 (  0%)   0.01 ( 50%)    12k (  1%)
+ TOTAL                              :   0.01          0.01          0.02         2362k
